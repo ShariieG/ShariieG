@@ -1,77 +1,79 @@
-# 👩‍💻 Sharon Galela – Developer Portfolio
+# 👩‍💻 Sharon Galela – Junior Software Engineer
 
-Hi, I’m Sharon – a Junior Software Engineer passionate about building useful tools through code and no-code platforms. This repository showcases my personal applications and projects I’ve worked on professionally at **Demisize**.
-
----
-
-## 🌟 Featured Projects
-
-### 🛠️ Personal Apps
-
-#### 📋 Tech ResuMake (Java Swing)
-A desktop app that helps users build professional resumes easily.  
-- Built in Java using Swing  
-- Sections for education, skills, experience  
-- Export-ready format
-
-#### 🚗 Vehicle Registration System
-An app to register and manage vehicle records.  
-- Features: Add/search/delete vehicles  
-- Useful for learning form validation and file handling
-
-#### ⚖️ BMI Calculator
-Simple health tool to calculate Body Mass Index based on height and weight.  
-- Input: height (cm) & weight (kg)  
-- Output: BMI + health category  
-- Add-on ideas: Calorie calculator, ideal weight range
-
----
-
-### 🏢 Projects at Demisize
-
-#### 🌿 Carbon Footprint Calculator
-Tool for estimating a company’s monthly environmental impact.  
-- Uses electricity, fuel, water, and paper usage  
-- Developed with ZOHO Creator, Deluge & Python  
-- Automated formulas for instant feedback
-
-#### 📊 BEE Analysis Calculator
-App that scores a company’s B-BBEE compliance level.  
-- Based on ownership %, skills & enterprise development  
-- Built with no-code UI (ZOHO) and backend logic in Deluge  
-- Helps businesses track scorecard status
+> Hi, I’m **Sharon** — a passionate and results-driven Junior Software Engineer  
+> 💻 Building tools that simplify life, from resume generators to calculators...  
+> *Loading skills...* ⏳
 
 ---
 
 ## 🧠 Technical Skills
 
-- **Languages:** Python, Java, C++, SQL  
-- **Tools:** Java Swing, UiPath, ZOHO Creator (Deluge)  
-- **Other:** Data Analysis, Technical Support, Excel, Azure
-- **Database:** SQL, Data Structures
+- **Languages:** `Python` `Java` `C++` `C#` `SQL`  
+- **Tools & Platforms:** `Java Swing` `ZOHO Creator (Deluge)` `UiPath`  
+- **Database:** `SQL`, `Data Structures`  
+- **Other:** `Data Analysis`, `Advanced Excel`, `Technical Support`
+
+---
+
+## 🌟 Featured Projects
+
+### 💼 Tech ResuMake (In Progress)
+
+> A Java Swing desktop app to help users build professional resumes.  
+> - Custom sections: skills, education, projects  
+> - Export-ready format  
+> - Designed with accessibility & empowerment in mind  
+
+### 🌿 Carbon Footprint & BEE Calculator
+
+> Business tools for environmental impact and BEE compliance.  
+> - Built with ZOHO Creator, Deluge, and Python  
+> - Automated calculations and reports  
+> - Used internally at **Demisize**
+
+---
+
+## 🛠 Other Projects
+
+| Project/Website               | Description                                   | Tech Used          |
+|------------------------------|-----------------------------------------------|--------------------|
+| **Demisize Website**          | Official consulting company site               | No-code platform   |
+| **APD Johannesburg Website**  | Website for disability support NGO             | No-code platform   |
+| **Data Analyst Tasks**        | Data modeling, cleaning & insights (internship) | Excel, SQL, Python |
 
 ---
 
 ## 🎓 Education
 
-**North West University** – BSc in IT  
-*NQF 5 & 6 Completed (74% & 75%)*  
-*Reason for incomplete: Financial constraints (5 modules left)*
+**North West University**  
+*Bachelor of Science in Information Technology (2020–2023)*  
+- ✅ NQF 5: Completed (74%)  
+- ✅ NQF 6: Completed (75%)  
+- ⚠️ NQF 7: Incomplete (5 modules) — *Financial constraints*
 
-**UNISA** – BSc in Computing (2025–Current)
-
----
-
-## 🧾 Certifications
-
-- Golden Key International Honour Society  
-- UiPath Automation Explorer  
-- Quantify Your Future Data Analyst Program  
-- Excel & SQL for Beginners
+**University of South Africa (UNISA)**  
+*Bachelor of Science in Computing (2025–Current)*  
+- 🟡 NQF 5: In Progress
 
 ---
 
-## 📩 Contact
+## 📜 Certifications
 
-📧 Email: n.sharongalela@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sharon-galela-6998bb265)  
+- 🏅 Golden Key International Honour Society  
+- 🤖 UiPath Academy – Automation Explorer  
+- 📊 Excel & SQL for Beginners  
+- 🔍 Quantify Your Future – Data Analyst Virtual Program  
+- ☁️ Microsoft Azure Fundamentals (AZ-900)  
+- 🧑‍🏫 Facilitator and Assessor Training
+
+---
+
+## 📩 Contact Me
+
+- 📧 Email: [n.sharongalela@gmail.com](mailto:n.sharongalela@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/sharon-galela-6998bb265](https://www.linkedin.com/in/sharon-galela-6998bb265)   
+- 📍 Location: Johannesburg, South Africa
+
+---
+
+✨ *Thanks for stopping by — let’s build something great!* ✨
