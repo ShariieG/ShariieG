@@ -1,3 +1,4 @@
+![Blue Banner](https://via.placeholder.com/1000x100/0074D9/FFFFFF?text=Welcome+to+ShariieG)
 # 👩‍💻 Sharon Galela – Junior Software Engineer
 
 > Hi, I’m **Sharon** — a passionate and results-driven Junior Software Engineer  
