@@ -1,34 +1,77 @@
-# Sharon Galela Portfolio
+# 👩‍💻 Sharon Galela – Developer Portfolio
 
-Welcome to my developer portfolio! I'm a Junior Software Engineer with a passion for building solutions using Java, Python, and C++. This repo contains:
+Hi, I’m Sharon – a Junior Software Engineer passionate about building useful tools through code and no-code platforms. This repository showcases my personal applications and projects I’ve worked on professionally at **Demisize**.
 
-- 🖥️ Projects I've built or contributed to
-- 🌐 No-code websites I've developed (Demisize, APD)
-- 🧾 Certifications and resume
+---
 
-## 🔧 Technical Skills
+## 🌟 Featured Projects
 
-- **Languages:** Java, Python, C++, SQL
-- **Tools:** Java Swing, UiPath, ZOHO Creator (Deluge)
+### 🛠️ Personal Apps
+
+#### 📋 Tech ResuMake (Java Swing)
+A desktop app that helps users build professional resumes easily.  
+- Built in Java using Swing  
+- Sections for education, skills, experience  
+- Export-ready format
+
+#### 🚗 Vehicle Registration System
+An app to register and manage vehicle records.  
+- Features: Add/search/delete vehicles  
+- Useful for learning form validation and file handling
+
+#### ⚖️ BMI Calculator
+Simple health tool to calculate Body Mass Index based on height and weight.  
+- Input: height (cm) & weight (kg)  
+- Output: BMI + health category  
+- Add-on ideas: Calorie calculator, ideal weight range
+
+---
+
+### 🏢 Projects at Demisize
+
+#### 🌿 Carbon Footprint Calculator
+Tool for estimating a company’s monthly environmental impact.  
+- Uses electricity, fuel, water, and paper usage  
+- Developed with ZOHO Creator, Deluge & Python  
+- Automated formulas for instant feedback
+
+#### 📊 BEE Analysis Calculator
+App that scores a company’s B-BBEE compliance level.  
+- Based on ownership %, skills & enterprise development  
+- Built with no-code UI (ZOHO) and backend logic in Deluge  
+- Helps businesses track scorecard status
+
+---
+
+## 🧠 Technical Skills
+
+- **Languages:** Python, Java, C++, SQL  
+- **Tools:** Java Swing, UiPath, ZOHO Creator (Deluge)  
+- **Other:** Data Analysis, Technical Support, Excel, Azure
 - **Database:** SQL, Data Structures
-- **Other:** Technical Support, Data Analysis
 
-## 📌 Featured Projects
-
-### 🌿 Carbon Footprint / BEE Calculator
-Custom business apps using ZOHO and Python to calculate carbon emissions and BEE scores.
-
-### 📄 Tech ResuMake
-A Java Swing desktop application that helps users create professional resumes.
-
-## 🌐 Websites
-- [Demisize](https://www.demisize.co.za)
-- [APD Johannesburg](https://apdjhb.co.za)
+---
 
 ## 🎓 Education
-- BSc in Information Technology (NWU) – 75% up to NQF 6
-- BSc in Computing (UNISA) – Current
+
+**North West University** – BSc in IT  
+*NQF 5 & 6 Completed (74% & 75%)*  
+*Reason for incomplete: Financial constraints (5 modules left)*
+
+**UNISA** – BSc in Computing (2025–Current)
+
+---
+
+## 🧾 Certifications
+
+- Golden Key International Honour Society  
+- UiPath Automation Explorer  
+- Quantify Your Future Data Analyst Program  
+- Excel & SQL for Beginners
+
+---
 
 ## 📩 Contact
-📧 n.sharongalela@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sharon-galela-6998bb265/)
+
+📧 Email: n.sharongalela@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sharon-galela-6998bb265)  
