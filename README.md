@@ -24,7 +24,6 @@
 | **[TechResuMake](https://github.com/ShariieG/TechResuMake)** | Java Swing desktop app to build, preview, and export resumes. | Java |
 | **[Covid-analysis-project](https://github.com/ShariieG/Covid-analysis-project)** | Jupyter Notebook for COVID-19 data analysis and visualizations. | Python, Jupyter |
 | **[Moodifyx](https://github.com/ShariieG/Moodifyx)** | Java application focused on emotional analysis or productivity. | Java |
-| **[ShariieG](https://github.com/ShariieG)** | Personal GitHub with multiple pinned repositories. | Mixed |
 
 ---
 
