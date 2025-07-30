@@ -1,86 +1,64 @@
-# 👩‍💻 Sharon Galela – Junior Software Engineer
+# 👩‍💻 Sharon Galela | Junior Software Engineer
 
-> Passionate about building smart, efficient, and user-friendly applications.  
-> 💻 Focused on automating tasks, improving UI, and solving real-world problems through code.  
-> *Loading skills...* ⏳
-
----
-
-## 🧠 Technical Skills
-
-- **Languages:** `Python` `Java` `C++` `C#` `SQL`  
-- **Tools & Platforms:** `Java Swing` `UiPath` `ZOHO Creator (Deluge)`  
-- **Database:** `SQL`, `Data Structures`  
-- **Other:** `Data Analysis`, `Advanced Excel`, `Technical Support`
+**Passionate about building efficient, user-centric applications through clean code and automation.**  
+🔹 Focused on full-stack development, data analysis, and process optimization  
+🔹 Committed to solving real-world problems with technology  
 
 ---
 
-## 🚀 Featured GitHub Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **[BMI-Calculator](https://github.com/ShariieG/BMI-Calculator)** | Java console app using BlueJ to calculate BMI and TBW with health recommendations. | Java |
-| **[Vehicle-Registration](https://github.com/ShariieG/Vehicle-Registration)** | Java app for managing vehicle details (OOP & validation focused). | Java |
-| **[TechResuMake](https://github.com/ShariieG/TechResuMake)** | Java Swing desktop app to build, preview, and export resumes. | Java |
-| **[Covid-analysis-project](https://github.com/ShariieG/Covid-analysis-project)** | Jupyter Notebook for COVID-19 data analysis and visualizations. | Python, Jupyter |
-| **[Moodifyx](https://github.com/ShariieG/Moodifyx)** | Java application focused on emotional analysis or productivity. | Java |
+## 🛠️ Technical Skills  
+**Languages:** Python | Java | C++ | C# | SQL  
+**Tools & Platforms:** Java Swing | UiPath | ZOHO Creator (Deluge)  
+**Database:** SQL | Data Structures  
+**Other:** Data Analysis | Advanced Excel | Technical Support  
 
 ---
 
-## 🧑‍💻 Work Experience
+## 🚀 Featured Projects  
 
-### Junior Software Engineer | **Demisize**  
-📅 *Jun 2023 – Present*  
-- Developed and maintained websites with 99% uptime  
-- Automated internal tools using UiPath and ZOHO Creator  
-- Provided technical support and performance optimizations
-
-### Data Analyst Intern | **Quantify Your Future**  
-📅 *Nov 2021 – Feb 2022*  
-- Cleaned and visualized datasets  
-- Enhanced efficiency by 10% through actionable insights  
-- Built models for decision-making
+| Project | Description | Tech Stack |  
+|---------|-------------|------------|  
+| **[TechResuMake](https://github.com/ShariieG/TechResuMake)** | Java Swing desktop app for building, previewing, and exporting professional resumes | Java |  
+| **[Carbon Footprint Calculator](https://apdjhb.co.za)** | Web app for environmental impact analysis (UI: ZOHO Forms, Logic: Python/Java) | ZOHO Creator |  
+| **[COVID-19 Data Analysis](https://github.com/ShariieG/Covid-analysis-project)** | Jupyter Notebook for pandemic trend visualization | Python, Pandas, Matplotlib |  
+| **[Vehicle Registration System](https://github.com/ShariieG/Vehicle-Registration)** | Java OOP console app with input validation | Java |  
 
 ---
 
-## 🎓 Education
+## 💼 Professional Experience  
 
-**North West University** – *BSc in Information Technology (2020–2023)*  
-- ✅ NQF 5: Completed (74%)  
-- ✅ NQF 6: Completed (75%)  
-- ⚠️ NQF 7: Incomplete (5 modules – financial constraints)
+### **Junior Software Engineer** @ [Demisize](https://www.demisize.co.za) *(Jun 2023 – Present)*  
+- Developed and maintained company websites, achieving **99% uptime**  
+- Automated workflows using **UiPath** and **ZOHO Creator**, reducing manual tasks by 30%  
+- Provided technical support and performance optimizations for internal systems  
 
-**University of South Africa (UNISA)** – *BSc in Computing (2025–Present)*  
-- 🟡 NQF 5: In Progress
-
----
-
-## 📜 Certifications
-
-- 🏅 Golden Key Honour Society (Top 15%)  
-- 🤖 UiPath Automation Explorer  
-- 📊 Excel & SQL for Beginners  
-- 🔍 Quantify Your Future – Data Analyst  
-- ☁️ Microsoft Azure Fundamentals (AZ-900)  
-- 🧑‍🏫 Facilitator and Assessor Training  
-- 🎓 Java OCA *(In Progress)*
+### **Data Analyst Intern** @ Quantify Your Future *(Nov 2021 – Feb 2022)*  
+- Cleaned and visualized datasets, improving data accuracy by **15%**  
+- Identified operational inefficiencies, leading to **10% cost savings**  
 
 ---
 
-## 💡 Volunteer Work
+## 📚 Education & Certifications  
+**BSc in Computing** | University of South Africa *(2025 – Present)*  
+**BSc in IT** | North West University *(2020–2023)*  
+- Completed NQF 5 (74%) & NQF 6 (75%)  
 
-**Student Assistant – NWU (Feb 2023 – Jul 2024)**  
-- Supported Java and C++ learners during lab sessions
-
----
-
-## 📬 Contact
-
-- 📍 Johannesburg, South Africa  
-- 📧 [n.sharongalela@gmail.com](mailto:n.sharongalela@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/sharon-galela-6998bb265)  
-- 💻 [GitHub](https://github.com/ShariieG)
+**Certifications:**  
+- UiPath Automation Explorer 🤖  
+- Microsoft Azure Fundamentals (AZ-900) ☁️  
+- Data Analyst Certification 📊  
 
 ---
 
-✨ *Thanks for visiting my resume! Let’s build something impactful together.* ✨
+## 🌟 Community Engagement  
+**Student Assistant** @ North West University *(Feb 2023 – Jul 2024)*  
+- Mentored 50+ students in **Java and C++** during lab sessions  
+
+---
+
+## 📬 Let's Connect!  
+📧 **Email:** [n.sharongalela@gmail.com](mailto:n.sharongalela@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/sharon-galela-6998bb265](https://www.linkedin.com/in/sharon-galela-6998bb265)  
+💻 **GitHub:** [github.com/ShariieG](https://github.com/ShariieG)  
+
+✨ **Open to collaborations!** Let’s build something impactful together.  
