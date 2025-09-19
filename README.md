@@ -46,7 +46,7 @@ Python + Jupyter Notebook project analyzing 10,000+ SA COVID-19 case records.
 - Trend insights for infection and vaccination rates.  
 
 ### [⚖️ BMI Calculator](https://github.com/ShariieG/BMI-Calculator)  
-A simple Java console application (BlueJ) that calculates BMI and Total Body Water (TBW), providing health summaries and recommendations.
+- A simple Java console application (BlueJ) that calculates BMI and Total Body Water (TBW), providing health summaries and recommendations.
 
 ### [🎵 Moodifyx](https://github.com/ShariieG/Moodifyx)  
 Java Swing music player with mood-based playlist features.  
