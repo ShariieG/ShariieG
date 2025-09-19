@@ -22,6 +22,9 @@
 - Oracle OCA Java SE 8 Certified  
 - Certified Facilitator & Assessor (NQF 5)  
 - Java (Beginner to Expert, Udemy 2025)
+- Introduction to Excel
+- Introduction to SQL
+- 
 
 ---
 
