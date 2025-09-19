@@ -19,12 +19,12 @@
 ## 🏆 Certifications  
 
 - Microsoft Azure Fundamentals (AZ-900)  
-- Oracle OCA Java SE 8 Certified  
+- Oracle OCA Java SE 8 certified programmer 1Z0-808
 - Certified Facilitator & Assessor (NQF 5)  
 - Java (Beginner to Expert, Udemy 2025)
 - Introduction to Excel
 - Introduction to SQL
-- 
+- Uipath Academy Automation Explorer Training
 
 ---
 
