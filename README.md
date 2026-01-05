@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sharon Galela  
 
-💻 **Passionate Java Developer | Full-Stack Engineer | Azure Certified**  
-🚀 Skilled in building robust backend systems, intuitive UIs, and scalable cloud applications.  
+💻 **Java Developer | Aspiring Full-Stack Engineer | Azure Certified**  
+🚀 Passionate about building practical Java applications, strengthening core CS fundamentals, and continuously upskilling through hands-on projects.  
 📍 Johannesburg, South Africa  
 
 ---
@@ -10,66 +10,115 @@
 
 - **Languages:** Java, Python, C++, C#, SQL  
 - **Web & UI:** HTML, CSS, Java Swing, API Integration  
-- **Cloud & Tools:** Microsoft Azure, UiPath, ZOHO Creator (Deluge)  
-- **Databases:** SQL, Data Structures  
+- **Cloud & Tools:** Microsoft Azure, UiPath, Zoho Creator (Deluge)  
+- **Databases & CS:** SQL, Data Structures & Algorithms  
 - **Other:** Data Analysis, Excel, Technical Support  
 
 ---
 
 ## 🏆 Certifications  
 
-- Microsoft Azure Fundamentals (AZ-900)  
-- Oracle OCA Java SE 8 certified programmer (1Z0-808)
-- Certified Facilitator & Assessor (NQF 5)  
-- Java (Beginner to Expert, Udemy 2025)
-- Introduction to Excel
-- Introduction to SQL
-- Uipath Academy Automation Explorer Training
+- **Microsoft Certified: Azure AI Fundamentals** – FMTALI | Dec 2025  
+- **Microsoft Certified: Power BI Data Analyst Associate** – FMTALI | Sep 2025  
+- **Oracle Certified Associate: Java SE 8 Programmer (OCA)** – FMTALI | Sep 2025  
+- **Java (Beginner → Expert)** – Udemy | Jul 2025  
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** – FMTALI | Jun 2025  
+- **Automation Explorer Training** – UiPath Academy | Aug 2024  
+- **Certified Facilitator & Assessor (NQF 5)** – Trojan Training Solutions | 2023  
 
 ---
 
 ## 📂 Featured Projects  
 
-### [💼 TechResuMake](https://github.com/ShariieG/TechResuMake)  
-A Java Swing desktop app that generates professional resumes.  
-- GUI-based form inputs for personal details, skills, and education.  
-- Export functionality with customizable templates.  
+### 🚀 Cognifyz Technologies – Java Practice Projects  
 
-### [🚗 Vehicle Registration System](https://github.com/ShariieG/Vehicle-Registration)  
-Java console application for vehicle owner management and registration tracking.  
-- Applied OOP principles and input validation.  
-- Expiry alert functionality for registrations.  
+#### 🔹 [Java Level 1 Practice Projects](https://github.com/ShariieG/Cognifyz-Technologies-Java-Level-1-Practice-Projects)  
+Core Java console applications focused on fundamentals:  
+- 🌡️ Temperature Converter  
+- 🔁 Palindrome Checker  
+- 🎓 Student Grade Calculator  
+- 🔐 Random Password Generator  
 
-### [📊 COVID-19 Data Analysis Dashboard](https://github.com/ShariieG/Covid-analysis-project)  
-Python + Jupyter Notebook project analyzing 10,000+ SA COVID-19 case records.  
-- Data cleaning, visualization, and hotspot identification.  
-- Trend insights for infection and vaccination rates.  
-
-### [⚖️ BMI Calculator](https://github.com/ShariieG/BMI-Calculator)  
-- A simple Java console application (BlueJ) that calculates BMI and Total Body Water (TBW), providing health summaries and recommendations.
-
-### [🎵 Moodifyx](https://github.com/ShariieG/Moodifyx)  
-Java Swing music player with mood-based playlist features.  
-- Supports MP3, playlist shuffle, and mood detection (text/facial expression).  
-
-## 📈 Experience  
-
-- **Junior Software Engineer @ Demisize (2023 – 2025)**  
-  Developed applications, managed websites, provided technical support.  
-
-- **Full Stack Developer Trainee @ FNB App Academy (2025)**  
-  Gained 32 credits in full-stack app dev, APIs, and AI implementation.  
-
-- **Student Assistant @ NWU (2022 – 2023)**  
-  Graded Java & C++ assignments with accuracy.  
-
-- **Data Analyst Intern @ Quantify Your Future (2021 – 2022)**  
-  Improved data efficiency by 10% via analysis and modeling.  
+**Skills applied:**  
+`Java basics · Control flow · User input validation · Strings · Loops · OOP concepts`
 
 ---
 
-## 🌐 Connect with Me  
+#### 🔹 [Java Level 2 Projects](https://github.com/ShariieG/Cognifyz-Technologies-Java-Level-2-Projects-)  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sharon-galela-6998bb265)  
-- 🖥️ [GitHub](https://github.com/ShariieG)  
-- 📧 Email: n.sharongalela@gmail.com  
+Advanced Java projects emphasizing logic, structure, and problem-solving.  
+
+**Task 1: Tic Tac Toe**  
+- Console-based classic Tic Tac Toe game  
+- Features:  
+  - Two-player gameplay  
+  - Input validation to prevent invalid moves  
+  - Dynamic board display after each turn  
+  - Win/draw detection logic  
+- **Skills applied:**  
+`Java fundamentals · Loops · Conditionals · Methods · Arrays · Problem-solving · Game logic`  
+
+**Other Level 2 tasks:**  
+- Modular Java programs implementing OOP, exception handling, and clean code practices  
+- Focus on logical thinking, reusable methods, and code structure  
+
+---
+
+### 💼 [TechResuMake](https://github.com/ShariieG/TechResuMake)  
+Java Swing desktop app for generating professional resumes:  
+- GUI-based form inputs for personal details, skills, and education  
+- Resume scoring logic  
+- Exportable, customizable templates  
+
+---
+
+### 🚗 [Vehicle Registration System](https://github.com/ShariieG/Vehicle-Registration)  
+Java console application for registering and managing vehicle details:  
+- Strong input validation  
+- OOP-based design  
+- Registration expiry alerts  
+
+---
+
+### 📊 [COVID-19 Data Analysis Project](https://github.com/ShariieG/Covid-analysis-project)  
+Python & Jupyter Notebook project analyzing South African COVID-19 data:  
+- Cleaned and analyzed 10,000+ records  
+- Data visualization & trend analysis  
+- Infection and vaccination insights  
+
+---
+
+### ⚖️ [BMI Calculator](https://github.com/ShariieG/BMI-Calculator)  
+Java console application (BlueJ) for health calculations:  
+- BMI & Total Body Water (TBW)  
+- Health summaries and recommendations  
+
+---
+
+### 🎵 [Moodifyx](https://github.com/ShariieG/Moodifyx)  
+Java Swing music player with intelligent playlist features:  
+- MP3 support  
+- Playlist shuffle  
+- Mood-based song selection (text/facial expression – ongoing enhancements)  
+
+---
+
+## 📈 Experience  
+
+- **Junior Software Engineer – Demisize (2023–2025)**  
+  Application development, website management, and technical support.  
+
+- **Full-Stack Developer Trainee – FNB App Academy (2025)**  
+  Earned 32 credits in full-stack development, APIs, and AI implementation.  
+
+- **Student Assistant – North-West University (2022–2023)**  
+  Assisted with grading Java & C++ assignments.  
+
+- **Data Analyst Intern – Quantify Your Future (2021–2022)**  
+  Improved data efficiency through analysis and modeling.  
+
+---
+
+## 🌱 Currently Focused On  
+
+- Advanced Java & OOP master
