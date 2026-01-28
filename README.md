@@ -44,7 +44,7 @@
 | **COVID-19 Data Analysis Project** | Python & Jupyter Notebook analyzing South African COVID-19 data: cleaning, visualization, trend analysis | Python · Pandas · Matplotlib · Data Cleaning · Visualization | [Repo](https://github.com/ShariieG/Covid-analysis-project) |
 | **BMI Calculator** | Java console application calculating BMI & Total Body Water (TBW) with health recommendations | Java · Console I/O · Conditional Logic · Health Calculations | [Repo](https://github.com/ShariieG/BMI-Calculator) |
 | **Moodifyx** | Java Swing music player with MP3 support, playlist shuffle, and mood-based song selection (text/facial expression) | Java Swing · OOP · GUI · Media Handling · Playlist Logic | [Repo](https://github.com/ShariieG/Moodifyx) |
-| **ParkEasy** | Java-based parking app to manage users, bookings, and locations, with booking access codes and availability tracking | Java · OOP · ArrayList · File Handling · GUI · Console Interaction | [Repo](https://github.com/ShariieG/ParkEasy) |
+| **ParkEasy** | Java-based parking app to manage users, bookings, and locations, with booking access codes and availability tracking | Java · OOP · ArrayList · File Handling · GUI · Console Interaction | [Repo](https://github.com/ShariieG/Park-Easy-BackEnd) |
 
 ---
 
