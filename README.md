@@ -27,7 +27,7 @@ I bring a rare combination of development skill and data analysis expertise — 
 
 > **Microsoft Certified: Power BI Data Analyst Associate** — Sep 2025
 
-### Live production dashboards *(Providence Software Solutions, 2026)*
+### Live production dashboards 
 
 | Dashboard | Purpose | Impact |
 |---|---|---|
